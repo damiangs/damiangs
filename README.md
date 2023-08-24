@@ -1,4 +1,17 @@
-### Hi there 👋
+### 👋 Hello, World! 
+I'm Damian Garcia, a passionate 3D artist and Front-End Developer based in Mexico. Welcome to my GitHub profile, where I share my journey in the world of technology and open-source collaboration.
+
+### 🚀 What drives me? 
+The thrill of innovation, the beauty of clean and efficient code, and the belief that technology can be a powerful force for positive change. Whether it's building robust applications, contributing to open-source projects, or diving into data science challenges, I'm always eager to learn and share my knowledge with the global developer community.
+
+### 🖥️ Technologies that I use
+![Alt Text](/damiangs/assets/html.svg) ![Alt Text](/damiangs/assets/css.svg) ![Alt Text](/damiangs/assets/javascript.svg) 
+
+🤝 Let's connect and collaborate! Whether you have a project idea, want to discuss the latest trends in tech, or just want to say hi, feel free to reach out. Together, we can create something amazing.
+
+Thanks for stopping by, and I look forward to sharing this coding journey with you. Happy coding! 🚀
+
+
 
 <!--
 **damiangs/damiangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
