@@ -1,5 +1,5 @@
 ### 👋 Hello, World! 
-I'm Damian Garcia, a passionate 3D artist and Front-End Developer based in Mexico. Welcome to my GitHub profile, where I share my journey in the world of technology and open-source collaboration.
+I'm Damian Garcia, a passionate 3D artist and Full-Stack Web Developer based in Mexico. Welcome to my GitHub profile, where I share my journey in the world of technology and open-source collaboration.
 
 ### 🚀 What drives me? 
 The thrill of innovation, the beauty of clean and efficient code, and the belief that technology can be a powerful force for positive change. Whether it's building robust applications, contributing to open-source projects, or diving into data science challenges, I'm always eager to learn and share my knowledge with the global developer community.
