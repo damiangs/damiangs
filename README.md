@@ -8,7 +8,7 @@ The thrill of innovation, the beauty of clean and efficient code, and the belief
 
 ### 🖥️ Technologies that I use
 
-<img src="assets/html.svg" width="50">&nbsp;&nbsp;<img src="assets/css.svg" width="50">&nbsp;&nbsp;<img src="assets/javascript.svg" width="50">&nbsp;&nbsp;<img src="assets/tailwind.svg" width="50">&nbsp;&nbsp;<img src="assets/react.svg" width="50">&nbsp;&nbsp;<img src="assets/nodejs.svg" width="50">
+<img src="assets/html.svg" width="50">&nbsp;&nbsp;<img src="assets/css.svg" width="50">&nbsp;&nbsp;<img src="assets/javascript.svg" width="50">&nbsp;&nbsp;<img src="assets/tailwind.svg" width="50">&nbsp;&nbsp;
 
 🤝 Let's connect and collaborate! Whether you have a project idea, want to discuss the latest trends in tech, or just want to say hi, feel free to reach out. Together, we can create something amazing.
 
